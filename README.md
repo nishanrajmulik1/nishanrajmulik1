@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure SOC Project</b>
-  - [Created a Live SOC / Honeynet in Microsoft Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Created a Live SOC / Honeynet in Microsoft Azure]
 
 
 <h2> 🤳 Connect with me:</h2>
