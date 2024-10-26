@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Nishan! Aspiring Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 My Projects:</h2>
+
+- <b>Azure SOC Project</b>
+  - [Created a Live SOC / Honeynet in Microsoft Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="NishanRajmulik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/nishan-r-590586200
+
 
 <!--
-**nishanrajmulik1/nishanrajmulik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nishanrajmulik/nishanrajmulik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
