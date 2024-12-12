@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nishan! Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Nishan! Cyber Security Analyst! </a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
