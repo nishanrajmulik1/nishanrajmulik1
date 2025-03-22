@@ -29,7 +29,7 @@ I’m passionate about defending systems, detecting threats, and automating secu
 
 ## 📬 Connect With Me
 
-📧 [nishanrajmulik1@gmail.com](mailto:nishan.rajmulik117@outlook.com)  
+📧 [Email](mailto:nishan.rajmulik117@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nishanrajmulik/)
 
 Let’s connect and collaborate on blue team and threat detection projects!
