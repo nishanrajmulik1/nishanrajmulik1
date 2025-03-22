@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nishan Raj Mulik
+# 👋 Hi, I'm Nishan Rajmulik
 
 🎯 Cyber Security Analyst Intern | Blue Team Enthusiast | SOC & Threat Detection  
 📍 Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)  
