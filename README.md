@@ -1,51 +1,35 @@
 # 👋 Hi, I'm Nishan Raj Mulik
 
 🎯 Cyber Security Analyst Intern | Blue Team Enthusiast | SOC & Threat Detection  
-📍 Based in Sydney | Master's in Cybersecurity | Hands-on Home Lab & Cloud SOC Projects  
+📍 Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)  
 
-I'm passionate about defending systems, hunting threats, and automating security workflows. I’ve built both on-prem and cloud-based SOC labs to develop detection engineering, log analysis, and incident response skills.
-
----
-
-## 🔍 Key Projects
-
-### 🛡️ [Cloud-SOC-Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)
-A full SOC environment deployed in Azure using honeypots, Microsoft Sentinel, and Logic Apps. Focuses on threat detection using MITRE ATT&CK, KQL, and security automation.
-
-### 🧪 [PowerShell Log Analysis](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)
-Used PowerShell scripts to monitor, parse, and analyze Windows Event Logs for suspicious login behavior and lateral movement.
-
-### 🔐 [Windows Login Detection](https://github.com/nishanrajmulik1/Windows-Login-Detection)
-Custom rules and queries to identify anomalous Windows login events using security logs and MITRE-based techniques.
-
-### 📊 [Splunk SIEM Setup](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)
-Step-by-step setup of Splunk on Ubuntu, configured to ingest logs from Windows endpoints and analyze real attack simulations.
+I’m passionate about defending systems, detecting threats, and automating security workflows. My current focus is building real-world cybersecurity projects—both virtual labs and cloud-based SOCs using tools like Microsoft Sentinel, Wazuh, Suricata, and Splunk.
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Featured Projects
 
-**SIEM & Logging**: Microsoft Sentinel, Splunk, Wazuh, Graylog, Sysmon  
-**Threat Detection**: KQL, MITRE ATT&CK, Suricata, Sigma Rules  
+- 🔐 **[Cloud-SOC-Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)** – Microsoft Sentinel-based honeynet to simulate and detect real-world attacks  
+- 🧪 **[PowerShell Log Analysis](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)** – Parsing and monitoring Windows logs using custom PowerShell scripts  
+- 🔍 **[Windows Login Detection](https://github.com/nishanrajmulik1/Windows-Login-Detection)** – Anomaly detection rules for Windows authentication events  
+- 📊 **[Splunk SIEM Setup](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)** – Splunk lab to collect logs from Windows endpoints and detect attacks
+
+---
+
+## 💻 Skills & Tools
+
+**SIEM**: Splunk, Microsoft Sentinel, Graylog, Wazuh  
+**Detection**: MITRE ATT&CK, Suricata, Zeek, Sysmon  
 **Scripting**: PowerShell, Bash  
-**Cloud Security**: Azure Defender, AWS GuardDuty  
-**Monitoring**: Security Onion, pfSense, Zeek  
-**Other**: Git, GitHub, Wireshark, Proxmox
+**Cloud Security**: Azure, AWS GuardDuty  
+**Blue Team**: Log Analysis, Threat Hunting, Incident Response  
+**Other**: pfSense, Proxmox, Wireshark
 
 ---
 
-## 🧠 Learning & Community
+## 📬 Connect With Me
 
-📚 LetsDefend - SOC Learning Path Certified | Malware Analysis Certified  
-🎓 TryHackMe – Cyber Security 101 Certified | SOC Level 1  
-🧪 CyberRangers – 90-Day Security Challenge Participant  
-👥 Always sharing and helping others in cybersecurity communities
-
----
-
-## 📬 Contact Me
-
-🔗 [LinkedIn](https://www.linkedin.com/in/nishanrajmulik/)  
-📧 [Email](mailto:nishan.rajmulik117@outlook.com)
+📧 [nishanrajmulik1@gmail.com](mailto:nishan.rajmulik117@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nishanrajmulik/)
 
 Let’s connect and collaborate on blue team and threat detection projects!
