@@ -18,5 +18,5 @@ I'm passionate about defending networks, detecting threats, and building real-wo
 - 🔍 [PowerShell Log Analysis](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)
 
 📫 **Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/nishanrajmulik/) | [Email](mailto:nishanrajmulik1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nishanrajmulik/) | [Email](mailto:nishan.rajmulik117@outlook.com)
 
