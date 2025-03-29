@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nishan Rajmulik
 
-🎯 Cyber Security Analyst Intern | Blue Team Enthusiast | SOC & Threat Detection  
+🎯 Aspiring Cyber Security Professional | Blue Team Enthusiast | SOC & Threat Detection  
 📍 Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)  
 
 I’m passionate about defending systems, detecting threats, and automating security workflows. My current focus is building real-world cybersecurity projects—both virtual labs and cloud-based SOCs using tools like Microsoft Sentinel, Wazuh, Suricata, and Splunk.
@@ -28,8 +28,7 @@ I’m passionate about defending systems, detecting threats, and automating secu
 ---
 
 ## 📬 Connect With Me
-
-📧 [Email](mailto:nishan.rajmulik117@outlook.com)  
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/nishanrajmulik/)
 
 Let’s connect and collaborate on blue team and threat detection projects!
