@@ -10,9 +10,11 @@ I’m passionate about defending systems, detecting threats, and automating secu
 ## 🚀 Featured Projects
 
 - 🔐 **[Cloud-SOC-Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)** – Microsoft Sentinel-based honeynet to simulate and detect real-world attacks  
+- 🚨 **[SIEM + SOAR Lab (Splunk, n8n, Slack)](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)** – Simulated SOC detection and automated alerting with Splunk + n8n + Slack. Logs from Windows, attacks from Kali, alerts routed via Slack.  
 - 🧪 **[PowerShell Log Analysis](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)** – Parsing and monitoring Windows logs using custom PowerShell scripts  
 - 🔍 **[Windows Login Detection](https://github.com/nishanrajmulik1/Windows-Login-Detection)** – Anomaly detection rules for Windows authentication events  
 - 📊 **[Splunk SIEM Setup](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)** – Splunk lab to collect logs from Windows endpoints and detect attacks
+
 
 ---
 
