@@ -9,7 +9,7 @@ I’m passionate about defending systems, detecting threats, and automating secu
 
 ## 🚀 Featured Projects
 
-- 🔐 **[Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Hybrid-AD-XDR-Sentinel-Project)** – Built a hybrid identity lab integrating On-Prem AD, Azure AD, Microsoft Defender for Endpoint, and Microsoft Sentinel. Simulated Mimikatz credential dump and confirmed detection in XDR and Sentinel dashboards.
+- 🔐 **[Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)** – Built a hybrid identity lab integrating On-Prem AD, Azure AD, Microsoft Defender for Endpoint, and Microsoft Sentinel. Simulated Mimikatz credential dump and confirmed detection in XDR and Sentinel dashboards.
 - 🔐 **[Cloud-SOC-Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)** – Microsoft Sentinel-based honeynet to simulate and detect real-world attacks  
 - 🚨 **[SIEM + SOAR Lab (Splunk, n8n, Slack)](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)** – Simulated SOC detection and automated alerting with Splunk + n8n + Slack. Logs from Windows, attacks from Kali, alerts routed via Slack.  
 - 🧪 **[PowerShell Log Analysis](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)** – Parsing and monitoring Windows logs using custom PowerShell scripts  
