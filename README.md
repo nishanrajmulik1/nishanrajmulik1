@@ -1,24 +1,40 @@
 # 👋 Hi, I'm Nishan Rajmulik
 
-🎯 Aspiring Cyber Security Professional | Blue Team Enthusiast | SOC & Threat Detection  
-📍 Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)  
+Aspiring Cyber Security Professional | Blue Team Enthusiast | SOC & Threat Detection  
+Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)  
 
 I’m passionate about defending systems, detecting threats, and automating security workflows. My current focus is building real-world cybersecurity projects—both virtual labs and cloud-based SOCs using tools like Microsoft Sentinel, Wazuh, Suricata, and Splunk.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-- 🔐 **[Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)** – Built a hybrid identity lab integrating On-Prem AD, Azure AD, Microsoft Defender for Endpoint, and Microsoft Sentinel. Simulated Mimikatz credential dump and confirmed detection in XDR and Sentinel dashboards.
-- 🔐 **[Cloud-SOC-Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)** – Microsoft Sentinel-based honeynet to simulate and detect real-world attacks  
-- 🚨 **[SIEM + SOAR Automation Lab (Splunk, n8n, Slack)](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)** – Simulated SOC detection and automated alerting with Splunk + n8n + Slack. Logs from Windows, attacks from Kali, alerts routed via Slack.  
-- 🧪 **[PowerShell Log Analysis](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)** – Parsing and monitoring Windows logs using custom PowerShell scripts  
-- 🔍 **[Windows Login Detection Rules](https://github.com/nishanrajmulik1/Windows-Login-Detection)** – Anomaly detection rules for Windows authentication events  
-- 📊 **[Splunk SIEM Setup & Dashboarding](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)** – Splunk lab to collect logs from Windows endpoints and detect attacks
+
+###  **[Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)**
+Built a hybrid identity security lab integrating On-Prem AD, Azure AD, Microsoft Defender for Endpoint, and Microsoft Sentinel.  
+Simulated credential dumping (Mimikatz) and validated detection across XDR, Sentinel Analytics Rules, and Hunting Queries.  
+
+###  **[Cloud SOC Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)**
+Designed a cloud-based honeynet using Azure VMs, Microsoft Sentinel, Log Analytics, and Defender XDR.  
+Captured brute-force attacks, SSH scanning, malware downloads, and RDP infiltration attempts.
+
+###  **[Splunk + n8n + Slack SOAR Automation Lab](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)**
+Simulated real-world attacks from a Kali attacker, ingested logs into Splunk, created dashboards, and automated Slack alerts using n8n.
+
+###  **[PowerShell Log Analysis & Script Monitoring](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)**
+Developed PowerShell scripts to collect, parse, and analyse Windows event logs.  
+Useful for detecting suspicious execution and admin abuse.
+
+###  **[Windows Login Detection Rules](https://github.com/nishanrajmulik1/Windows-Login-Detection)**
+Created anomaly detection rules for failed logins, unusual authentication patterns, and lateral movement behaviour.
+
+###  **[Splunk SIEM Setup & Dashboarding](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)**
+Configured Splunk to ingest Sysmon + Winlogbeat logs and visualised brute-force, malware, and PowerShell attacks.
+
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### **Platforms & Tools**
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
@@ -31,7 +47,7 @@ I’m passionate about defending systems, detecting threats, and automating secu
 
 ---
 
-## 💻 Skills & Tools
+##  Skills & Tools
 
 **SIEM**: Splunk, Microsoft Sentinel, Graylog, Wazuh  
 **Detection**: MITRE ATT&CK, Suricata, Zeek, Sysmon  
@@ -48,8 +64,8 @@ I’m passionate about defending systems, detecting threats, and automating secu
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishanrajmulik/)
+[LinkedIn](https://www.linkedin.com/in/nishanrajmulik/)
 
 Let’s connect and collaborate on blue team and threat detection projects!
