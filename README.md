@@ -66,6 +66,6 @@ Configured Splunk to ingest Sysmon + Winlogbeat logs and visualised brute-force,
 
 ##  Connect With Me
  
-[LinkedIn](https://www.linkedin.com/in/nishanrajmulik/)
+[LinkedIn](https://www.linkedin.com/in/nrajmulik/)
 
 Let’s connect and collaborate on blue team and threat detection projects!
