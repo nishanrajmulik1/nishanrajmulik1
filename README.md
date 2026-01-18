@@ -2,23 +2,39 @@
 
 ## 👋 Hi, I'm Nishan Rajmulik 
 
-Aspiring Cyber Security Professional | Blue Team Enthusiast | SOC & Threat Detection  
+Cyber Security Graduate | Blue Team & SOC Operations | Threat Detection  
 Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)
 
-I’m passionate about defending systems, detecting threats, and automating security workflows. My current focus is building real-world cybersecurity projects—both virtual labs and cloud-based SOCs — using tools such as Microsoft Sentinel, Wazuh, Suricata, and Splunk.
+Currently seeking Junior IT Security Analyst / Cyber Security Analyst roles with a strong focus on Blue Team operations and threat detection.
+
+I focus on defending systems, detecting threats, and automating SOC security workflows.
 
 ---
 
-##  Featured Projects
+##  🔐 Security & SOC Projects (Primary Focus)
+Hybrid AD + XDR + Sentinel  
+Cloud SOC Honeynet  
+Splunk + SOAR Automation  
+PowerShell Log Analysis
 
+## 🌐 Networking & Infrastructure Labs
+Microsoft Azure Labs  
+Azure JumpServer  
+Azure VNet Peering  
+CCNA LAB  
+CCNA Real Lab
 
 ###  **[Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)**
 Built a hybrid identity security lab integrating On-Prem AD, Azure AD, Microsoft Defender for Endpoint, and Microsoft Sentinel.  
-Simulated credential dumping (Mimikatz) and validated detection across XDR, Sentinel Analytics Rules, and Hunting Queries.  
+Simulated credential dumping (Mimikatz) and validated detection across XDR, Sentinel Analytics Rules, and Hunting Queries.
+
+Outcome: Validated real-world SOC detection workflows using XDR and SIEM.
 
 ###  **[Cloud SOC Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)**
 Designed a cloud-based honeynet using Azure VMs, Microsoft Sentinel, Log Analytics, and Defender XDR.  
 Captured brute-force attacks, SSH scanning, malware downloads, and RDP infiltration attempts.
+
+Outcome: Observed and analysed real attacker behaviour in a cloud SOC environment.
 
 ###  **[Splunk + n8n + Slack SOAR Automation Lab](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)**
 Simulated real-world attacks from a Kali attacker, ingested logs into Splunk, created dashboards, and automated Slack alerts using n8n.
@@ -32,7 +48,6 @@ Created anomaly detection rules for failed logins, unusual authentication patter
 
 ###  **[Splunk SIEM Setup & Dashboarding](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)**
 Configured Splunk to ingest Sysmon + Winlogbeat logs and visualised brute-force, malware, and PowerShell attacks.
-
 
 ---
 
@@ -70,4 +85,4 @@ Configured Splunk to ingest Sysmon + Winlogbeat logs and visualised brute-force,
  
 [LinkedIn](https://www.linkedin.com/in/nrajmulik/)
 
-Let’s connect and collaborate on blue team and threat detection projects!
+Let’s connect and collaborate on blue-team and threat-detection projects!
