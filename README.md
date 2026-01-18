@@ -1,9 +1,11 @@
-# 👋 Hi, I'm Nishan Rajmulik 
+🌐 Portfolio: https://nishanrajmulik1.github.io/
+
+## 👋 Hi, I'm Nishan Rajmulik 
 
 Aspiring Cyber Security Professional | Blue Team Enthusiast | SOC & Threat Detection  
-Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud) | Portfolio: https://nishanrajmulik1.github.io/
+Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)
 
-I’m passionate about defending systems, detecting threats, and automating security workflows. My current focus is building real-world cybersecurity projects—both virtual labs and cloud-based SOCs using tools like Microsoft Sentinel, Wazuh, Suricata, and Splunk.
+I’m passionate about defending systems, detecting threats, and automating security workflows. My current focus is building real-world cybersecurity projects—both virtual labs and cloud-based SOCs — using tools such as Microsoft Sentinel, Wazuh, Suricata, and Splunk.
 
 ---
 
