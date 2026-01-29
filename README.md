@@ -82,7 +82,7 @@ Configured Splunk to ingest Sysmon + Winlogbeat logs and visualised brute-force,
   Verification: https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567
 - **Juniper Networks JNCIA**
   Verification: https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d
-- **Cybersecurity Masterclass: SOC Analyst
+- **Cybersecurity Masterclass: SOC Analyst**
   Verification: https://app.kajabi.com/certificates/08d20040
   
 ---
