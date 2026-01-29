@@ -77,8 +77,14 @@ Configured Splunk to ingest Sysmon + Winlogbeat logs and visualised brute-force,
 
 ## 🏅 Certifications
 - **CompTIA Security+**
+  Verification: https://www.credly.com/badges/573933fa-0270-46c7-ad75-693ed1a6fd2a
 - **Microsoft SC-900: Security, Compliance, and Identity**
-
+  Verification: https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567
+- **Juniper Networks JNCIA**
+  Verification: https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d
+- **Cybersecurity Masterclass: SOC Analyst
+  Verification: https://app.kajabi.com/certificates/08d20040
+  
 ---
 
 ##  Connect With Me
