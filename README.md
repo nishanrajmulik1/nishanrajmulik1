@@ -75,18 +75,27 @@ Configured Splunk to ingest Sysmon + Winlogbeat logs and visualised brute-force,
 
 ---
 
-## 🏅 Certifications
-- **CompTIA Security+**
-  [Verification](https://www.credly.com/badges/573933fa-0270-46c7-ad75-693ed1a6fd2a)
+##  🎓  Certifications
+
+- <strong>CompTIA Security+</strong>
+  <a href="https://www.credly.com/badges/573933fa-0270-46c7-ad75-693ed1a6fd2a" target="_blank" rel="noopener noreferrer">
+    Verification
+  </a>
   
-- **Microsoft SC-900: Security, Compliance, and Identity**
-  [Verification](https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567)
+- <strong>Microsoft SC-900: Security, Compliance, and Identity</strong>
+  <a href="https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567" targer="_blank" rel="nopener noreferrer">
+    Verification
+  </a>
   
-- **Juniper Networks JNCIA**
-  [Verification](https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d)
+- <strong>Juniper Networks: JNCIA</strong>
+  <a href="https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d" targert="_blank" rel="nopener noreferrer">
+    Verification
+  </a>
   
-- **Cybersecurity Masterclass: SOC Analyst**
-  [Verification](https://app.kajabi.com/certificates/08d20040)
+- <strong>Cybersecurity Masterclass: SOC Analyst</strong>
+  <a href="https://app.kajabi.com/certificates/08d20040" target="_blank" rel="nopener noreferrer">
+    Verification
+  </a>
   
 ---
 
