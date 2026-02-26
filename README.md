@@ -2,10 +2,10 @@
 
 ## 👋 Hi, I'm Nishan Rajmulik 
 
-IT Graduate | Blue Team & SOC Operations | Threat Detection  
+Cybersecurity Graduate | Blue Team & SOC Operations | Threat Detection  
 Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)
 
-Currently seeking Junior IT Security Analyst / Cyber Security Analyst roles with a strong focus on Blue Team operations and threat detection.
+Currently seeking Security Analyst / Cyber Security Analyst roles with a strong focus on Blue Team operations and threat detection.
 
 I focus on defending systems, detecting threats, and automating SOC security workflows.
 
