@@ -2,105 +2,117 @@
 
 ## 👋 Hi, I'm Nishan Rajmulik 
 
-Cybersecurity Graduate | Blue Team & SOC Operations | Threat Detection  
-Based in Sydney | Master's in Cybersecurity | Hands-on SOC Projects (Virtual & Cloud)
+Cyber Security Graduate | Blue Team & SOC Operations | Hands-on SOC Projects (Virtual & Cloud)
 
-Currently seeking Security Analyst / Cyber Security Analyst roles with a strong focus on Blue Team operations and threat detection.
+Open to: Security Analyst · SOC Analyst · Cyber Security Analyst · IT Security Analyst · Graduate Programs
 
-I focus on defending systems, detecting threats, and automating SOC security workflows.
-
----
-
-##  🔐 Security & SOC Projects (Primary Focus)
-Hybrid AD + XDR + Sentinel  
-Cloud SOC Honeynet  
-Splunk + SOAR Automation  
-PowerShell Log Analysis
-
-## 🌐 Networking & Infrastructure Labs
-Microsoft Azure Labs  
-Azure JumpServer  
-Azure VNet Peering  
-CCNA LAB  
-CCNA Real Lab
-
-###  **[Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)**
-Built a hybrid identity security lab integrating On-Prem AD, Azure AD, Microsoft Defender for Endpoint, and Microsoft Sentinel.  
-Simulated credential dumping (Mimikatz) and validated detection across XDR, Sentinel Analytics Rules, and Hunting Queries.
-
-Outcome: Validated real-world SOC detection workflows using XDR and SIEM.
-
-###  **[Cloud SOC Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)**
-Designed a cloud-based honeynet using Azure VMs, Microsoft Sentinel, Log Analytics, and Defender XDR.  
-Captured brute-force attacks, SSH scanning, malware downloads, and RDP infiltration attempts.
-
-Outcome: Observed and analysed real attacker behaviour in a cloud SOC environment.
-
-###  **[Splunk + n8n + Slack SOAR Automation Lab](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)**
-Simulated real-world attacks from a Kali attacker, ingested logs into Splunk, created dashboards, and automated Slack alerts using n8n.
-
-###  **[PowerShell Log Analysis & Script Monitoring](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)**
-Developed PowerShell scripts to collect, parse, and analyse Windows event logs.  
-Useful for detecting suspicious execution and admin abuse.
-
-###  **[Windows Login Detection Rules](https://github.com/nishanrajmulik1/Windows-Login-Detection)**
-Created anomaly detection rules for failed logins, unusual authentication patterns, and lateral movement behaviour.
-
-###  **[Splunk SIEM Setup & Dashboarding](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)**
-Configured Splunk to ingest Sysmon + Winlogbeat logs and visualised brute-force, malware, and PowerShell attacks.
+I build and defend hands-on SOC environments that simulate real-world attacks and validate detections end-to-end — from log ingestion to KQL/SPL rule writing to SOAR-style alerting.
 
 ---
 
-##  Tech Stack
+My focus areas:
 
-### **Platforms & Tools**
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+- **Threat detection** — writing analytic rules in KQL and SPL, mapped to MITRE ATT&CK
+- **Blue team operations** — Sentinel, Splunk, Defender XDR, Wazuh
+- **SOC automation** — n8n + Slack workflows for alert enrichment and notification
+- **Cloud security** — Azure hardening, hybrid identity, secure networking
+
+---
+
+## Featured SOC & Blue Team Projects
+
+### [Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)
+Integrated on-prem Active Directory with Microsoft Entra ID via Azure AD Connect. Simulated **credential dumping (Mimikatz)** and **brute-force attacks**, then validated detections across Microsoft Defender XDR and Sentinel using custom Analytics Rules and Hunting Queries.
+
+**Stack:** AD DS · Entra ID · Microsoft Defender for Endpoint · Microsoft Sentinel · KQL
+**Skills:** Identity attack detection · KQL rule authoring · MITRE ATT&CK mapping
+
+---
+
+### [Cloud SOC Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)
+Designed and deployed a honeynet in Azure to capture real attacker behaviour. Ingested telemetry into Microsoft Sentinel via Log Analytics; observed and analysed **brute-force, SSH scanning, malware downloads, and RDP infiltration** attempts.
+
+**Stack:** Azure VMs · Microsoft Sentinel · Log Analytics · Defender XDR · NSGs · Bastion
+**Skills:** Cloud security monitoring · Attack analysis · Detection tuning
+
+---
+
+### [Splunk + n8n + Slack SOAR Automation Lab](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)
+End-to-end SIEM + SOAR pipeline simulating Tier 1 SOC workflows. Attacks launched from Kali, logs ingested into Splunk, dashboards built for triage, and alerts auto-enriched and routed to Slack via n8n.
+
+**Stack:** Splunk · Windows Server 2022 DC · pfSense · Kali Linux · n8n · Slack
+**Skills:** SPL queries · SOAR workflows · Multi-source log correlation
+
+---
+
+### [Windows Login Detection Rules](https://github.com/nishanrajmulik1/Windows-Login-Detection)
+Custom detection rules for **failed login patterns, unusual authentication behaviour, and lateral movement indicators** built on Windows Event Logs.
+
+**Skills:** Behavioural detection logic · Event log analysis · False-positive tuning
+
+---
+
+### [PowerShell Log Analysis & Script Monitoring](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)
+PowerShell scripts to collect, parse, and analyse Windows event logs for **suspicious execution, encoded commands, and admin privilege abuse**.
+
+**Skills:** PowerShell scripting · Log parsing · Living-off-the-land detection
+
+---
+
+### [Splunk SIEM Setup & Dashboarding](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)
+Splunk environment ingesting Sysmon and Winlogbeat data, with dashboards visualising **brute-force activity, malware execution, and suspicious PowerShell**.
+
+**Skills:** SIEM deployment · SPL · Dashboard design
+
+---
+
+## Networking & Infrastructure Foundations
+
+- **[Microsoft Azure Labs](https://github.com/nishanrajmulik1/microsoft-hybrid-ad)** — Hybrid AD environments, secure networking
+- **[Azure JumpServer & VNet Peering](https://github.com/nishanrajmulik1/azure-vnet-peering-multiregion)** — Secure access patterns, network isolation
+- **[CCNA Labs](https://github.com/nishanrajmulik1/ccna-lab)** — Routing, switching, VLANs, ACLs
+
+---
+
+## Tech Stack
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Defender](https://img.shields.io/badge/Defender_XDR-0067B8?style=flat&logo=microsoftdefender&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Defender](https://img.shields.io/badge/Microsoft%20Defender-0067B8?style=flat&logo=microsoftdefender&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-0054A6?style=flat&logo=wazuh&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfSense&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ---
 
-##  Skills & Tools
+##  Skills
 
-**SIEM**: Splunk, Microsoft Sentinel, Graylog, Wazuh  
-**Detection**: MITRE ATT&CK, Suricata, Zeek, Sysmon  
-**Scripting**: PowerShell, Bash  
-**Cloud Security**: Azure, AWS GuardDuty  
-**Blue Team**: Log Analysis, Threat Hunting, Incident Response  
-**Other**: pfSense, Proxmox, Wireshark
+**SIEM & Detection:** Microsoft Sentinel · Splunk · Wazuh · KQL · SPL
+**Endpoint & Identity:** Microsoft Defender XDR · Active Directory · Microsoft Entra ID · IAM
+**Network Security:** Suricata · Sysmon · pfSense · Wireshark
+**Cloud:** Microsoft Azure · hybrid identity · secure networking
+**Frameworks:** MITRE ATT&CK · NIST CSF · ACSC Essential Eight
+**Automation & Scripting:** PowerShell · Bash · n8n (SOAR)
+**Other:** Proxmox · Linux · Windows Server 2022/2025 · Log analysis · Incident response
 
 ---
 
-##  🎓  Certifications
+##  Certifications
 
-- <strong>CompTIA Security+</strong>
-  <a href="https://www.credly.com/badges/573933fa-0270-46c7-ad75-693ed1a6fd2a" target="_blank" rel="noopener noreferrer">
-    Verification
-  </a>
-  
-- <strong>Microsoft SC-900: Security, Compliance, and Identity</strong>
-  <a href="https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567" targer="_blank" rel="nopener noreferrer">
-    Verification
-  </a>
-  
-- <strong>Juniper Networks: JNCIA</strong>
-  <a href="https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d" targert="_blank" rel="nopener noreferrer">
-    Verification
-  </a>
-  
-- <strong>Cybersecurity Masterclass: SOC Analyst</strong>
-  <a href="https://app.kajabi.com/certificates/08d20040" target="_blank" rel="nopener noreferrer">
-    Verification
-  </a>
-  
+| Certification | Issuer | Verify |
+|---|---|---|
+| **CompTIA Security+** | CompTIA | [Credly](https://www.credly.com/badges/573933fa-0270-46c7-ad75-693ed1a6fd2a) |
+| **Microsoft SC-900** | Microsoft | [Credly](https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567) |
+| **Juniper JNCIA-Junos** | Juniper Networks | [Credly](https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d) |
+
+**Currently studying:** Microsoft SC-200 (Security Operations Analyst)
+
 ---
 
 ##  Connect With Me
  
 [LinkedIn](https://www.linkedin.com/in/nrajmulik/)
 
-Let’s connect and collaborate on blue-team and threat-detection projects!
+*Always happy to chat about blue team detection, SOC automation, and breaking into cyber.*
