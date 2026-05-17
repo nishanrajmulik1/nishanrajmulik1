@@ -1,4 +1,4 @@
-🌐 Portfolio: https://nishanrajmulik1.github.io/
+🌐 Portfolio Website: https://nishanrajmulik1.github.io/
 
 ## 👋 Hi, I'm Nishan Rajmulik 
 
