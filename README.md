@@ -2,11 +2,14 @@
 
 ## 👋 Hi, I'm Nishan Rajmulik 
 
-Cyber Security Graduate | Blue Team & SOC Operations | Hands-on SOC Projects (Virtual & Cloud)
+SOC & Blue Team Analyst | Microsoft Sentinel · Defender XDR · KQL · Splunk
 
-Open to: Security Analyst · SOC Analyst · Cyber Security Analyst · IT Security Analyst · Graduate Programs
+I build hands-on SOC environments that simulate real-world attacks and validate
+detections end-to-end. Currently seeking SOC Analyst and Cyber Security Analyst
+roles.
 
-I build and defend hands-on SOC environments that simulate real-world attacks and validate detections end-to-end — from log ingestion to KQL/SPL rule writing to SOAR-style alerting.
+Certifications: CompTIA Security+ | Microsoft SC-900 | Juniper JNCIA-Junos
+Currently studying: Microsoft SC-200
 
 ---
 
