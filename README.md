@@ -10,9 +10,6 @@ Currently working toward Network Security Engineer and Cloud Network & Security 
 
 Certified: CompTIA Security+ · Microsoft SC-900 · Juniper JNCIA-Junos
 
-Building toward: Cisco CCNA & CCNP · Fortinet FCP (Network Security) · Palo Alto PCNSA · Microsoft AZ-104 · AZ-500 · AZ-700
-
-
 ---
 
 My focus areas:
