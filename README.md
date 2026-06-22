@@ -2,27 +2,33 @@
 
 ## 👋 Hi, I'm Nishan Rajmulik 
 
-SOC & Blue Team Analyst | Microsoft Sentinel · Defender XDR · KQL · Splunk
+Network & Network Security Engineer Routing & Switching · Firewalls · Cloud Networking & Security
 
-I build hands-on SOC environments that simulate real-world attacks and validate
-detections end-to-end. Currently seeking SOC Analyst and Cyber Security Analyst
-roles.
+I design, build, and secure network infrastructure, Cisco routing and switching, enterprise firewalls (FortiGate, Palo Alto, pfSense), and Azure cloud networking & security, and I prove all of it in a hands-on enterprise home lab on Proxmox.
 
-Certifications: CompTIA Security+ | Microsoft SC-900 | Juniper JNCIA-Junos
-Currently studying: Microsoft SC-200
+Currently working toward Network Security Engineer and Cloud Network & Security Engineer roles.
+
+Certified: CompTIA Security+ · Microsoft SC-900 · Juniper JNCIA-Junos
+
+Building toward: Cisco CCNA & CCNP · Fortinet FCP (Network Security) · Palo Alto PCNSA · Microsoft AZ-104 · AZ-500 · AZ-700
+
 
 ---
 
 My focus areas:
 
-- **Threat detection** — writing analytic rules in KQL and SPL, mapped to MITRE ATT&CK
-- **Blue team operations** — Sentinel, Splunk, Defender XDR, Wazuh
-- **SOC automation** — n8n + Slack workflows for alert enrichment and notification
-- **Cloud security** — Azure hardening, hybrid identity, secure networking
+- **Routing & switching** - VLANs, inter-VLAN routing, trunking, OSPF, ACLs
+- **Firewalls** - FortiGate, Palo Alto, pfSense — security policies, NAT, IPsec/SSL VPN, zone segmentation
+- **Cloud networking** - Azure VNets, peering, NSGs, VPN gateway, hybrid connectivity
+- **Systems & identity** - Active Directory, Entra ID hybrid identity, Windows Server 2022/2025
+- **Threat detection** - writing analytic rules in KQL and SPL, mapped to MITRE ATT&CK
+- **Blue team operations** - Sentinel, Splunk, Defender XDR, Wazuh
+- **SOC automation** - n8n + Slack workflows for alert enrichment and notification
+- **Cloud security** - Azure hardening, hybrid identity, secure networking
 
 ---
 
-## Featured SOC & Blue Team Projects
+## Featured Projects
 
 ### [Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)
 Integrated on-prem Active Directory with Microsoft Entra ID via Azure AD Connect. Simulated **credential dumping (Mimikatz)** and **brute-force attacks**, then validated detections across Microsoft Defender XDR and Sentinel using custom Analytics Rules and Hunting Queries.
@@ -92,10 +98,14 @@ Splunk environment ingesting Sysmon and Winlogbeat data, with dashboards visuali
 
 ##  Skills
 
+**Routing & switching:** VLANs · inter-VLAN routing · trunking · OSPF · ACLs · subnetting
+**Firewalls:** FortiGate · Palo Alto · pfSense · policies · NAT · IPsec/SSL VPN · zone segmentation
+**Systems & identity:** Active Directory · Entra ID · Azure AD Connect · Windows Server 2022/2025
+Tools: Wireshark · GNS3 · EVE-NG · Proxmox · PowerShell · Bash
 **SIEM & Detection:** Microsoft Sentinel · Splunk · Wazuh · KQL · SPL
 **Endpoint & Identity:** Microsoft Defender XDR · Active Directory · Microsoft Entra ID · IAM
 **Network Security:** Suricata · Sysmon · pfSense · Wireshark
-**Cloud:** Microsoft Azure · hybrid identity · secure networking
+**Cloud networking:** Azure VNets · peering · NSGs · VPN gateway · hybrid connectivity
 **Frameworks:** MITRE ATT&CK · NIST CSF · ACSC Essential Eight
 **Automation & Scripting:** PowerShell · Bash · n8n (SOAR)
 **Other:** Proxmox · Linux · Windows Server 2022/2025 · Log analysis · Incident response
@@ -110,7 +120,7 @@ Splunk environment ingesting Sysmon and Winlogbeat data, with dashboards visuali
 | **Microsoft SC-900** | Microsoft | [Credly ↗](https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567) |
 | **Juniper JNCIA-Junos** | Juniper Networks | [Credly ↗](https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d) |
 
-**Currently studying:** Microsoft SC-200 (Security Operations Analyst)
+**Currently studying:** Microsoft AZ-104, AZ-500, AZ-700
 
 ---
 
@@ -118,4 +128,4 @@ Splunk environment ingesting Sysmon and Winlogbeat data, with dashboards visuali
  
 [LinkedIn](https://www.linkedin.com/in/nrajmulik/)
 
-*Always happy to chat about blue team detection, SOC automation, and breaking into cyber.*
+*Always happy to chat about routing & switching, firewalls, cloud networking & security, blue team detection, SOC automation.*
