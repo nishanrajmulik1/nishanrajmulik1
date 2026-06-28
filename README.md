@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Nishan Rajmulik 
 
-Network & Network Security Engineer Routing & Switching · Firewalls · Cloud Networking & Security
+Network & System Engineer | Cloud & Security | Cisco · FortiGate · Palo Alto · pfSense · Azure | Security+ · SC-900 · JNCIA-Junos · CCNA ·  AZ-104 · AZ-500
 
 I design, build, and secure network infrastructure, Cisco routing and switching, enterprise firewalls (FortiGate, Palo Alto, pfSense), and Azure cloud networking & security, and I prove all of it in a hands-on enterprise home lab on Proxmox.
 
@@ -116,8 +116,6 @@ Tools: Wireshark · GNS3 · EVE-NG · Proxmox · PowerShell · Bash
 | **CompTIA Security+** | CompTIA | [Credly ↗](https://www.credly.com/badges/573933fa-0270-46c7-ad75-693ed1a6fd2a) |
 | **Microsoft SC-900** | Microsoft | [Credly ↗](https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567) |
 | **Juniper JNCIA-Junos** | Juniper Networks | [Credly ↗](https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d) |
-
-**Currently studying:** Microsoft AZ-104, AZ-500, AZ-700
 
 ---
 
