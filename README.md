@@ -74,9 +74,9 @@ Splunk environment ingesting Sysmon and Winlogbeat data, with dashboards visuali
 
 ## Networking & Infrastructure Foundations
 
-- **[Microsoft Azure Labs](https://github.com/nishanrajmulik1/microsoft-hybrid-ad)** — Hybrid AD environments, secure networking
-- **[Azure JumpServer & VNet Peering](https://github.com/nishanrajmulik1/azure-vnet-peering-multiregion)** — Secure access patterns, network isolation
-- **[CCNA Labs](https://github.com/nishanrajmulik1/ccna-lab)** — Routing, switching, VLANs, ACLs
+- **[Microsoft Azure Labs](https://github.com/nishanrajmulik1/microsoft-hybrid-ad)** - Hybrid AD environments, secure networking
+- **[Azure JumpServer & VNet Peering](https://github.com/nishanrajmulik1/azure-vnet-peering-multiregion)** - Secure access patterns, network isolation
+- **[CCNA Labs](https://github.com/nishanrajmulik1/ccna-lab)** - Routing, switching, VLANs, ACLs
 
 ---
 
