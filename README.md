@@ -15,7 +15,7 @@ Certified: CompTIA Security+ · Microsoft SC-900 · Juniper JNCIA-Junos
 My focus areas:
 
 - **Routing & switching** - VLANs, inter-VLAN routing, trunking, OSPF, ACLs
-- **Firewalls** - FortiGate, Palo Alto, pfSense — security policies, NAT, IPsec/SSL VPN, zone segmentation
+- **Firewalls** - FortiGate, Palo Alto, pfSense security policies, NAT, IPsec/SSL VPN, zone segmentation
 - **Cloud networking** - Azure VNets, peering, NSGs, VPN gateway, hybrid connectivity
 - **Systems & identity** - Active Directory, Entra ID hybrid identity, Windows Server 2022/2025
 - **Threat detection** - writing analytic rules in KQL and SPL, mapped to MITRE ATT&CK
