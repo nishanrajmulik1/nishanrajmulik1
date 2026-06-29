@@ -6,8 +6,6 @@ Network & System Engineer | Cloud & Security | Cisco · FortiGate · Palo Alto �
 
 I design, build, and secure network infrastructure, Cisco routing and switching, enterprise firewalls (FortiGate, Palo Alto, pfSense), and Azure cloud networking & security, and I prove all of it in a hands-on enterprise home lab on Proxmox.
 
-Currently working toward Network Security Engineer and Cloud Network & Security Engineer roles.
-
 Certified: CompTIA Security+ · Microsoft SC-900 · Juniper JNCIA-Junos
 
 ---
