@@ -2,9 +2,9 @@
 
 ## 👋 Hi, I'm Nishan Rajmulik 
 
-Network & System Engineer | Cloud & Security | Cisco · FortiGate · Palo Alto · pfSense · Azure | Security+ · SC-900 · JNCIA-Junos · CCNA ·  AZ-104 · AZ-500
+Security Analyst | SOC & Detection Engineering · Cloud & Network Security | Microsoft Sentinel · Defender XDR · Azure · pfSense | Security+ · SC-900 · JNCIA-Junos | Studying SC-200
 
-I design, build, and secure network infrastructure, Cisco routing and switching, enterprise firewalls (FortiGate, Palo Alto, pfSense), and Azure cloud networking & security, and I prove all of it in a hands-on enterprise home lab on Proxmox.
+I build and secure hybrid AD + Azure environments and run the full detect → triage → respond chain in a hands-on SOC home lab on Proxmox, writing KQL/SPL detections mapped to MITRE ATT&CK, investigating incidents through to root cause, and documenting NIST-aligned response playbooks. This is backed by network and firewall engineering, as well as Azure cloud networking.
 
 Certified: CompTIA Security+ · Microsoft SC-900 · Juniper JNCIA-Junos
 
@@ -12,14 +12,14 @@ Certified: CompTIA Security+ · Microsoft SC-900 · Juniper JNCIA-Junos
 
 My focus areas:
 
-- **Routing & switching** - VLANs, inter-VLAN routing, trunking, OSPF, ACLs
-- **Firewalls** - FortiGate, Palo Alto, pfSense security policies, NAT, IPsec/SSL VPN, zone segmentation
-- **Cloud networking** - Azure VNets, peering, NSGs, VPN gateway, hybrid connectivity
-- **Systems & identity** - Active Directory, Entra ID hybrid identity, Windows Server 2022/2025
-- **Threat detection** - writing analytic rules in KQL and SPL, mapped to MITRE ATT&CK
-- **Blue team operations** - Sentinel, Splunk, Defender XDR, Wazuh
+- **Threat detection & hunting** - writing analytic rules in KQL and SPL, mapped to MITRE ATT&CK
+- **Blue team operations** - Microsoft Sentinel, Splunk, Defender XDR, Wazuh
+- **Incident response** - investigation, root cause analysis, NIST-aligned playbooks
 - **SOC automation** - n8n + Slack workflows for alert enrichment and notification
 - **Cloud security** - Azure hardening, hybrid identity, secure networking
+- **Systems & identity** - Active Directory, Entra ID hybrid identity, Windows Server 2022/2025
+- **Firewalls** - FortiGate, Palo Alto, pfSense security policies, NAT, IPsec/SSL VPN, zone segmentation
+- **Routing & switching** - VLANs, inter-VLAN routing, trunking, OSPF, ACLs
 
 ---
 
@@ -93,17 +93,18 @@ Splunk environment ingesting Sysmon and Winlogbeat data, with dashboards visuali
 
 ##  Skills
 
-**Routing & switching:** VLANs · inter-VLAN routing · trunking · OSPF · ACLs · subnetting
-**Firewalls:** FortiGate · Palo Alto · pfSense · policies · NAT · IPsec/SSL VPN · zone segmentation
-**Systems & identity:** Active Directory · Entra ID · Azure AD Connect · Windows Server 2022/2025
-Tools: Wireshark · GNS3 · EVE-NG · Proxmox · PowerShell · Bash
+**SIEM & Detection:** Microsoft Sentinel · Splunk · Wazuh · KQL · SPL · threat hunting · alert triage
+**Incident Response:** investigation · root cause analysis · NIST-aligned playbooks · MITRE ATT&CK
+**Endpoint & Identity:** Microsoft Defender XDR · Sysmon · Active Directory · Microsoft Entra ID · IAM · MFA · RBAC
+**Automation & Scripting:** PowerShell · Ansible · Bash · n8n (SOAR)
 **SIEM & Detection:** Microsoft Sentinel · Splunk · Wazuh · KQL · SPL
-**Endpoint & Identity:** Microsoft Defender XDR · Active Directory · Microsoft Entra ID · IAM
-**Network Security:** Suricata · Sysmon · pfSense · Wireshark
 **Cloud networking:** Azure VNets · peering · NSGs · VPN gateway · hybrid connectivity
+**Firewalls:** FortiGate · Palo Alto · pfSense · policies · NAT · IPsec/SSL VPN · zone segmentation
+**Routing & switching:** VLANs · inter-VLAN routing · trunking · OSPF · ACLs · subnetting
+**Systems:** Active Directory · Entra ID · Azure AD Connect · Windows Server 2022/2025 · Proxmox · Linux
 **Frameworks:** MITRE ATT&CK · NIST CSF · ACSC Essential Eight
 **Automation & Scripting:** PowerShell · Bash · n8n (SOAR)
-**Other:** Proxmox · Linux · Windows Server 2022/2025 · Log analysis · Incident response
+**Tools:** Wireshark · GNS3 · EVE-NG · Proxmox · PowerShell · Bash
 
 ---
 
@@ -121,4 +122,4 @@ Tools: Wireshark · GNS3 · EVE-NG · Proxmox · PowerShell · Bash
  
 [LinkedIn](https://www.linkedin.com/in/nrajmulik/)
 
-*Always happy to chat about routing & switching, firewalls, cloud networking & security, blue team detection, SOC automation.*
+*Always happy to chat about blue team detection, SOC automation, cloud security, systems and network & firewall engineering.*
