@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nishan Rajmulik 
 
-Security Analyst | SOC & Detection Engineering · Cloud & Network Security | Microsoft Sentinel · Defender XDR · Azure · pfSense | Security+ · SC-900 · JNCIA-Junos | Studying SC-200
+Security Analyst | SOC & Detection Engineering · Cloud & Network Security | Microsoft Sentinel · Defender XDR · Azure · pfSense | Security+ · SC-900 · JNCIA-Junos
 
 I build and secure hybrid AD + Azure environments and run the full detect → triage → respond chain in a hands-on SOC home lab on Proxmox, writing KQL/SPL detections mapped to MITRE ATT&CK, investigating incidents through to root cause, and documenting NIST-aligned response playbooks. This is backed by network and firewall engineering, as well as Azure cloud networking.
 
