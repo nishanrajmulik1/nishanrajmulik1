@@ -1,5 +1,3 @@
-🌐 Portfolio Webpage: https://nishanrajmulik1.github.io/
-
 ## 👋 Hi, I'm Nishan Rajmulik 
 
 Security Analyst | SOC & Detection Engineering · Cloud & Network Security | Microsoft Sentinel · Defender XDR · Azure · pfSense | Security+ · SC-900 · JNCIA-Junos | Studying SC-200
