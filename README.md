@@ -1,112 +1,98 @@
-## 👋 Hi, I'm Nishan Rajmulik 
+# Hi, I'm Nishan Rajmulik 👋
 
-Security Analyst | SOC & Detection Engineering · Cloud & Network Security | Microsoft Sentinel · Defender XDR · Azure · pfSense | Security+ · SC-900 · JNCIA-Junos
+**IT Support & Infrastructure | Azure · AWS · M365 · Networking | Security+ | Master of Cyber Security (USC) | Homelab: DevOps, Cloud & Security Projects**
 
-I build and secure hybrid AD + Azure environments and run the full detect → triage → respond chain in a hands-on SOC home lab on Proxmox, writing KQL/SPL detections mapped to MITRE ATT&CK, investigating incidents through to root cause, and documenting NIST-aligned response playbooks. This is backed by network and firewall engineering, as well as Azure cloud networking.
+I'm a IT professional. My hands-on experience is in IT support and a cyber analyst internship. Alongside that, I run a Proxmox homelab set up like a small company network, where I build and test hybrid Active Directory and Entra ID, Microsoft 365 and Intune-managed endpoints, firewall VLAN networks, Azure networking and security monitoring. I'm now extending it with DevOps tooling: Terraform, Ansible and containers.
 
-Certified: CompTIA Security+ · Microsoft SC-900 · Juniper JNCIA-Junos
+All projects on this profile are self-directed lab work, documented step by step.
 
 ---
 
-My focus areas:
+## What I work on
 
-- **Threat detection & hunting** - writing analytic rules in KQL and SPL, mapped to MITRE ATT&CK
-- **Blue team operations** - Microsoft Sentinel, Splunk, Defender XDR, Wazuh
-- **Incident response** - investigation, root cause analysis, NIST-aligned playbooks
-- **SOC automation** - n8n + Slack workflows for alert enrichment and notification
-- **Cloud security** - Azure hardening, hybrid identity, secure networking
-- **Systems & identity** - Active Directory, Entra ID hybrid identity, Windows Server 2022/2025
-- **Firewalls** - FortiGate, Palo Alto, pfSense security policies, NAT, IPsec/SSL VPN, zone segmentation
-- **Routing & switching** - VLANs, inter-VLAN routing, trunking, OSPF, ACLs
+- **IT support & endpoints** - Windows 11, Microsoft 365 administration, Intune and Autopilot, user and access management, troubleshooting
+- **Systems & identity** - Active Directory, Entra ID hybrid identity (Entra Connect), Windows Server 2022/2025, Linux
+- **Networking** - VLANs, trunking, inter-VLAN routing, OSPF, HSRP, EtherChannel, DHCP, ACLs, subnetting · Wireshark, GNS3, EVE-NG
+- **Firewalls** - pfSense, FortiGate, Palo Alto · policies, NAT, IPsec/SSL VPN, zone segmentation
+- **Cloud** - Azure VNets, peering, NSGs, Bastion, VPN gateway, hybrid connectivity · AWS
+- **Security** - Microsoft Sentinel, Defender XDR, Splunk, KQL · MITRE ATT&CK, NIST CSF, ACSC Essential Eight
+- **DevOps & automation (learning)** - PowerShell, Bash, Python, Terraform, Ansible, Docker, Kubernetes, Jenkins
+
+---
+
+## Homelab
+
+A Proxmox host running a small company-style environment:
+
+- **pfSense** firewall with VLAN segmentation (LAN, management, DMZ)
+- **Windows Server** domain controller and member server, synced to **Entra ID** with Entra Connect
+- **Windows 11** endpoints enrolled through **Autopilot** into a **Microsoft 365** tenant
 
 ---
 
 ## Featured Projects
 
-### [Hybrid AD + Microsoft XDR + Sentinel Detection Lab](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)
-Integrated on-prem Active Directory with Microsoft Entra ID via Azure AD Connect. Simulated **credential dumping (Mimikatz)** and **brute-force attacks**, then validated detections across Microsoft Defender XDR and Sentinel using custom Analytics Rules and Hunting Queries.
+### Infrastructure & Cloud
 
-**Stack:** AD DS · Entra ID · Microsoft Defender for Endpoint · Microsoft Sentinel · KQL
-**Skills:** Identity attack detection · KQL rule authoring · MITRE ATT&CK mapping
+#### [Hybrid Identity: Active Directory + Entra ID](https://github.com/nishanrajmulik1/microsoft-hybrid-ad)
+Built an on-prem Windows Server domain (AD DS and DNS) and synced users to a Microsoft Entra ID tenant with Entra Connect.
 
----
+**Stack:** Windows Server · AD DS · DNS · Entra ID · Entra Connect
 
-### [Cloud SOC Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)
-Designed and deployed a honeynet in Azure to capture real attacker behaviour. Ingested telemetry into Microsoft Sentinel via Log Analytics; observed and analysed **brute-force, SSH scanning, malware downloads, and RDP infiltration** attempts.
+#### [Multi-Region Azure VNet Peering](https://github.com/nishanrajmulik1/azure-vnet-peering-multiregion)
+Connected VNets in East US and North Europe with VNet peering, so VMs in different regions talk over private IP addresses.
 
-**Stack:** Azure VMs · Microsoft Sentinel · Log Analytics · Defender XDR · NSGs · Bastion
-**Skills:** Cloud security monitoring · Attack analysis · Detection tuning
+**Stack:** Azure VNets · VNet peering · Azure VMs
 
----
+#### [CCNA Enterprise Network Lab](https://github.com/nishanrajmulik1/ccna-lab)
+Redundant three-tier network with departmental VLANs, inter-VLAN routing, VTP, EtherChannel, HSRP gateway redundancy, OSPF, DHCP and a basic BGP link to a simulated ISP.
 
-### [Splunk + n8n + Slack SOAR Automation Lab](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)
-End-to-end SIEM + SOAR pipeline simulating Tier 1 SOC workflows. Attacks launched from Kali, logs ingested into Splunk, dashboards built for triage, and alerts auto-enriched and routed to Slack via n8n.
+**Stack:** Cisco IOS · VLANs · OSPF · HSRP · BGP
 
-**Stack:** Splunk · Windows Server 2022 DC · pfSense · Kali Linux · n8n · Slack
-**Skills:** SPL queries · SOAR workflows · Multi-source log correlation
+### Security & Monitoring
 
----
+#### [Hybrid AD + Microsoft Defender XDR + Sentinel](https://github.com/nishanrajmulik1/Microsoft-Hybrid-AD-XDR-Sentinel-Project)
+Connected on-prem Active Directory to Microsoft Entra ID with Azure AD Connect. Simulated credential dumping (Mimikatz) and brute-force attacks, then confirmed the detections in Defender XDR and Sentinel using custom analytics rules and hunting queries.
 
-### [Windows Login Detection Rules](https://github.com/nishanrajmulik1/Windows-Login-Detection)
-Custom detection rules for **failed login patterns, unusual authentication behaviour, and lateral movement indicators** built on Windows Event Logs.
+**Stack:** AD DS · Entra ID · Defender for Endpoint · Microsoft Sentinel · KQL
 
-**Skills:** Behavioural detection logic · Event log analysis · False-positive tuning
+#### [Cloud SOC Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)
+Deployed a honeynet in Azure and sent its logs to Microsoft Sentinel through Log Analytics. Analysed real brute-force, SSH scanning, malware download and RDP attempts.
 
----
+**Stack:** Azure VMs · NSGs · Bastion · Log Analytics · Microsoft Sentinel · Defender XDR
 
-### [PowerShell Log Analysis & Script Monitoring](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)
-PowerShell scripts to collect, parse, and analyse Windows event logs for **suspicious execution, encoded commands, and admin privilege abuse**.
+#### [Splunk + n8n + Slack Alert Automation](https://github.com/nishanrajmulik1/splunk-siem-n8n-slack-automation-project)
+Attacks launched from Kali against a Windows Server domain behind pfSense. Logs collected in Splunk, triage dashboards built, and alerts enriched and sent to Slack through n8n.
 
-**Skills:** PowerShell scripting · Log parsing · Living-off-the-land detection
+**Stack:** Splunk · Windows Server 2022 · pfSense · Kali Linux · n8n · Slack
 
----
+### More labs
 
-### [Splunk SIEM Setup & Dashboarding](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)
-Splunk environment ingesting Sysmon and Winlogbeat data, with dashboards visualising **brute-force activity, malware execution, and suspicious PowerShell**.
-
-**Skills:** SIEM deployment · SPL · Dashboard design
-
----
-
-## Networking & Infrastructure Foundations
-
-- **[Microsoft Azure Labs](https://github.com/nishanrajmulik1/microsoft-hybrid-ad)** - Hybrid AD environments, secure networking
-- **[Azure JumpServer & VNet Peering](https://github.com/nishanrajmulik1/azure-vnet-peering-multiregion)** - Secure access patterns, network isolation
-- **[CCNA Labs](https://github.com/nishanrajmulik1/ccna-lab)** - Routing, switching, VLANs, ACLs
+- **[Windows Login Detection](https://github.com/nishanrajmulik1/Windows-Login-Detection)** - Simulating and detecting successful (4624) and failed (4625) Windows logins, with PowerShell checks for brute-force attempts
+- **[PowerShell Log Analysis](https://github.com/nishanrajmulik1/PowerShell-Log-Analysis)** - PowerShell scripts that find suspicious PowerShell activity in Windows event logs, mapped to MITRE ATT&CK
+- **[Splunk SIEM Setup](https://github.com/nishanrajmulik1/Splunk-SIEM-Setup)** - Splunk on Ubuntu collecting Windows event data, with detections mapped to MITRE ATT&CK
 
 ---
 
 ## Tech Stack
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Defender](https://img.shields.io/badge/Defender_XDR-0067B8?style=flat&logo=microsoftdefender&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0054A6?style=flat&logo=wazuh&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 
 ---
 
-##  Skills
-
-**SIEM & Detection:** Microsoft Sentinel · Splunk · Wazuh · KQL · SPL · threat hunting · alert triage
-**Incident Response:** investigation · root cause analysis · NIST-aligned playbooks · MITRE ATT&CK
-**Endpoint & Identity:** Microsoft Defender XDR · Sysmon · Active Directory · Microsoft Entra ID · IAM · MFA · RBAC
-**Automation & Scripting:** PowerShell · Ansible · Bash · n8n (SOAR)
-**SIEM & Detection:** Microsoft Sentinel · Splunk · Wazuh · KQL · SPL
-**Cloud networking:** Azure VNets · peering · NSGs · VPN gateway · hybrid connectivity
-**Firewalls:** FortiGate · Palo Alto · pfSense · policies · NAT · IPsec/SSL VPN · zone segmentation
-**Routing & switching:** VLANs · inter-VLAN routing · trunking · OSPF · ACLs · subnetting
-**Systems:** Active Directory · Entra ID · Azure AD Connect · Windows Server 2022/2025 · Proxmox · Linux
-**Frameworks:** MITRE ATT&CK · NIST CSF · ACSC Essential Eight
-**Automation & Scripting:** PowerShell · Bash · n8n (SOAR)
-**Tools:** Wireshark · GNS3 · EVE-NG · Proxmox · PowerShell · Bash
-
----
-
-##  Certifications
+## Certifications
 
 | Certification | Issuer | Verify |
 |---|---|---|
@@ -114,10 +100,18 @@ Splunk environment ingesting Sysmon and Winlogbeat data, with dashboards visuali
 | **Microsoft SC-900** | Microsoft | [Credly ↗](https://www.credly.com/badges/8be875c0-9218-4cc7-9388-b15d4a4a9567) |
 | **Juniper JNCIA-Junos** | Juniper Networks | [Credly ↗](https://www.credly.com/badges/85df1188-b41e-4b15-b295-8ba6c991057d) |
 
+**Currently studying:** AZ-104 · RHCSA
+
 ---
 
-##  Connect With Me
- 
+## Education
+
+- **Master of Cyber Security & Forensics** - University of the Sunshine Coast
+- **Bachelor of Information Technology** - Victoria University
+
+---
+
+## Connect
+
 [LinkedIn](https://www.linkedin.com/in/nrajmulik/)
 
-*Always happy to chat about blue team detection, SOC automation, cloud security, systems and network & firewall engineering.*
