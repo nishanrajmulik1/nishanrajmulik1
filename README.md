@@ -2,7 +2,7 @@
 
 **Cybersecurity Analyst | SOC Operations & Threat Detection | IT Infrastructure | Security+ | Master of Cyber Security**
 
-I'm a cybersecurity and IT infrastructure professional with hands-on experience from a cyber analyst internship and IT support roles. Because effective threat detection relies on understanding the environment underneath, I run a Proxmox homelab built like a small enterprise network—combining hybrid Active Directory, Entra ID, pfSense VLAN segmentation, Microsoft 365/Intune endpoints, and Azure networking with SIEM/XDR telemetry and attack simulation. I'm currently extending the lab with automation and DevOps tooling including Terraform, Ansible, and containers.
+I'm a cybersecurity and IT infrastructure professional with hands-on experience from a cyber analyst internship and IT support roles. Because effective threat detection relies on understanding the environment underneath, I run a Proxmox homelab built like a small enterprise network, combining hybrid Active Directory, Entra ID, pfSense VLAN segmentation, Microsoft 365/Intune endpoints, and Azure networking with SIEM/XDR telemetry and attack simulation. I'm currently extending the lab with automation and DevOps tooling, including Terraform, Ansible, and containers.
 
 All projects on this profile are self-directed lab builds, documented step by step.
 
@@ -22,7 +22,7 @@ All projects on this profile are self-directed lab builds, documented step by st
 
 ## Homelab
 
-A Proxmox environment modeled after a small enterprise network for building, attacking, and defending real infrastructure:
+A Proxmox environment modelled after a small enterprise network for building, attacking, and defending real infrastructure:
 
 - **Detection & monitoring** - Log ingestion, alert triage, and custom detection rules in **Splunk**, **Microsoft Sentinel**, and **Defender XDR**, validated with Kali Linux attack simulations
 - **Network & perimeter** - **pfSense** firewall with VLAN segmentation (LAN, management, DMZ)
@@ -41,7 +41,7 @@ Connected on-prem Active Directory to Microsoft Entra ID with Entra Connect. Sim
 **Stack:** Microsoft Sentinel · Defender for Endpoint · KQL · AD DS · Entra ID
 
 #### [Cloud SOC Honeynet](https://github.com/nishanrajmulik1/Cloud-SOC-Honeynet)
-Deployed an internet-facing honeynet in Azure and streamed logs to Microsoft Sentinel via Log Analytics. Analyzed live brute-force, SSH scanning, RDP, and malware download attempts.
+Deployed an internet-facing honeynet in Azure and streamed logs to Microsoft Sentinel via Log Analytics. Analysed live brute-force, SSH scanning, RDP, and malware download attempts.
 
 **Stack:** Microsoft Sentinel · Defender XDR · Log Analytics · Azure VMs · NSGs · Bastion
 
